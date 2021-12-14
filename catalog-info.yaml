@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Little-Link-Cenz"
+  description: "This is a little link website for fun"
+  annotations:
+    github.com/project-slug: cenz/little-link-teamplate-abc
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "team-a"

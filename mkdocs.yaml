@@ -1,0 +1,8 @@
+site_name: "Little-Link-Cenz"
+site_description: "This is a little link website for fun"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
